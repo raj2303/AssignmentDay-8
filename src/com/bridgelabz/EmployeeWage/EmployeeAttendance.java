@@ -1,3 +1,6 @@
+package com.bridgelabz.EmployeeWage;
+
+
 public class EmployeeAttendance {
     String employee;
 
@@ -22,6 +25,7 @@ public class EmployeeAttendance {
     }
 
     public static void main(String[] args) {
+
         EmployeeAttendance employee = new EmployeeAttendance();
         employee.EmployeeAttendance();
     }
